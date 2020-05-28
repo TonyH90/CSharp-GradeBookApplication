@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GradeBook.GradeBooks
 {
-    class RankedGradeBook : StandardGradeBook
+    public class RankedGradeBook : StandardGradeBook
     {
         public RankedGradeBook(string name) : base(name)
         {
